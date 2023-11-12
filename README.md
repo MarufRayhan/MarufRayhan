@@ -19,7 +19,7 @@ Hello! I'm Maruf, an MSc student in Software, Web, and Cloud at Tampere Universi
 
 ## Contact
 - 📫 How to reach me: [maruf.rayhan@tuni.fi](mailto:maruf.rayhan@tuni.fi)
-- 🌐 LinkedIn: [[Your LinkedIn profile](https://www.linkedin.com/in/md-maruf-rayhan/)](#)
+- 🌐 LinkedIn: [[Maruf Rayhan](https://www.linkedin.com/in/md-maruf-rayhan/)](#)
 
 ---
 
