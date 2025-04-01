@@ -8,7 +8,7 @@ Researcher at Tampere University, I have a deep interest in merging state-of-the
 
 * 🌍  I'm based in Finland and Bangladesh
 * ✉️  You can contact me at [maruf.rayhan14@gmail.com, maruf.rayhan@tuni.fi](mailto:maruf.rayhan14@gmail.com, maruf.rayhan@tuni.fi)
-* 🚀  I'm currently working on [In a research project collaboration with Austria Post](http://https://www.post.at/en/)
+* 🚀  I'm currently working on EU funded project
 * 🧠  I'm learning Large Language Models (LLM), Problem solving
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I want to be a CTO of a tech company in future
