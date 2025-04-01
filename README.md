@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Researcher, Software Engineer, Professional Scrum Master
 ----------------------------------------------------
 
-As a Master's student specializing in Software, Web, and Cloud at Tampere University and a Research Assistant in the GPT Lab, I have a deep interest in merging state-of-the-art AI, particularly Large Language Models (LLM), with contemporary web technologies. My skill set includes ReactJS, Product Design, the Scrum Framework, Machine Learning, and Natural Language Processing. I aim to use these abilities to create innovative, AI-powered web applications that transform user engagement and data handling. Outside of my professional pursuits, I am an avid reader of the latest technology blogs and have a strong passion for playing FIFA.
+Researcher at Tampere University, I have a deep interest in merging state-of-the-art AI, particularly Large Language Models (LLM), with contemporary web technologies. My skill set includes React.js, Next.js,Pyhton Product Design, the Scrum Framework, Machine Learning, and Natural Language Processing. I aim to use these abilities to create innovative, AI-powered web applications that transform user engagement and data handling. Outside of my professional pursuits, I am an avid reader of the latest technology blogs and have a strong passion for playing FIFA.
 
 * 🌍  I'm based in Finland and Bangladesh
 * ✉️  You can contact me at [maruf.rayhan14@gmail.com, maruf.rayhan@tuni.fi](mailto:maruf.rayhan14@gmail.com, maruf.rayhan@tuni.fi)
