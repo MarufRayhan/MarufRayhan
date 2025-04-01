@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Md Maruf Rayhan
 =======================================================================================================================================
 
-Researcher, Web Developer, Professional Scrum Master
+Researcher, Software Engineer, Professional Scrum Master
 ----------------------------------------------------
 
 As a Master's student specializing in Software, Web, and Cloud at Tampere University and a Research Assistant in the GPT Lab, I have a deep interest in merging state-of-the-art AI, particularly Large Language Models (LLM), with contemporary web technologies. My skill set includes ReactJS, Product Design, the Scrum Framework, Machine Learning, and Natural Language Processing. I aim to use these abilities to create innovative, AI-powered web applications that transform user engagement and data handling. Outside of my professional pursuits, I am an avid reader of the latest technology blogs and have a strong passion for playing FIFA.
